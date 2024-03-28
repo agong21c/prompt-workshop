@@ -79,3 +79,6 @@ curl --request POST \
 ```
 
 **경로안내 샘플예제** [Link](https://skopenapi.readme.io/reference/%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4-%EC%83%98%ED%94%8C%EC%98%88%EC%A0%9C)
+
+[OpenWeatherMap API Key](https://icedhotchoco.tistory.com/entry/OpenWeatherMap-%EB%82%A0%EC%94%A8-API)
+
