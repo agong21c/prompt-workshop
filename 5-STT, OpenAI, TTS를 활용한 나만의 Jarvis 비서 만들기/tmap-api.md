@@ -8,6 +8,9 @@ https://openapi.sk.com/
 
 ### [로그인/회원가입](https://skopenapi.readme.io/reference/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
 
+### [상품 사용 신청하기](https://openapi.sk.com/products/detail?svcSeq=60&menuSeq=127)
+![API 사용 요금](https://openapi.sk.com/upload/service/products_img/2022/10/20/prd_img_1666253058912_0_1_ko.png)
+
 ### [TMAP 소개](https://skopenapi.readme.io/reference/t-map-%EC%86%8C%EA%B0%9C)
 
 
