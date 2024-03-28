@@ -1,17 +1,15 @@
 TMAP API 사용을 위한 준비 과정들
 
-https://open2u.sktelecom.com/web/out/standard.cmd?nc_trId=WWO01N051X02&nc_target=out/wwo/WWO01N051X02.do
-
-https://developers.sktelecom.com/
-
-https://blog.naver.com/asmwj3/221329248020
-
--> 
-
 https://openapi.sk.com/
 
-### CURL Sample:
-https://injae7034.github.io/kotlin/tmap-open-api-pedestrian/
+* SKTelecom 가입자는 T-world 계정으로 접속 가능
+
+### [SK open API 소개](https://skopenapi.readme.io/reference/%EC%86%8C%EA%B0%9C)
+
+### [로그인/회원가입](https://skopenapi.readme.io/reference/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
+
+### [TMAP 소개](https://skopenapi.readme.io/reference/t-map-%EC%86%8C%EA%B0%9C)
+
 
 **보행자 경로 요청**
 ```
@@ -50,7 +48,7 @@ https://skopenapi.readme.io/reference/%EB%B3%B4%ED%96%89%EC%9E%90-%EA%B2%BD%EB%A
 curl --request POST \
      --url 'https://apis.openapi.sk.com/tmap/routes?version=1&callback=function' \
      --header 'accept: application/json' \
-     --header 'appKey: e8wHh2tya84M88aReEpXCa5XTQf3xgo01aZG39k5' \
+     --header 'appKey: -------'' \
      --header 'content-type: application/json' \
      --data '
 {
