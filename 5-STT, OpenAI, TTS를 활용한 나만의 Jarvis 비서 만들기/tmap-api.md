@@ -11,7 +11,7 @@ https://openapi.sk.com/
 ### [TMAP 소개](https://skopenapi.readme.io/reference/t-map-%EC%86%8C%EA%B0%9C)
 
 
-**[보행자 경로 안내]**(https://skopenapi.readme.io/reference/%EB%B3%B4%ED%96%89%EC%9E%90-%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4)
+**보행자 경로 안내** [Link](https://skopenapi.readme.io/reference/%EB%B3%B4%ED%96%89%EC%9E%90-%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4)
 
 ```
 curl --request POST \
@@ -39,7 +39,7 @@ curl --request POST \
 '
 ```
 
-**[자동차 경로안내]**(https://skopenapi.readme.io/reference/%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4)
+**자동차 경로안내** [Link](https://skopenapi.readme.io/reference/%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4)
 
 ```
 curl --request POST \
@@ -75,4 +75,4 @@ curl --request POST \
 '
 ```
 
-**[경로안내 샘플예제]**(https://skopenapi.readme.io/reference/%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4-%EC%83%98%ED%94%8C%EC%98%88%EC%A0%9C)
+**경로안내 샘플예제** [Link](https://skopenapi.readme.io/reference/%EA%B2%BD%EB%A1%9C%EC%95%88%EB%82%B4-%EC%83%98%ED%94%8C%EC%98%88%EC%A0%9C)
